@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+#Database properties file
+/src/main/resources/hibernate.properties
+#Idea
+/.idea
+#Target
+/target/
+
